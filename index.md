@@ -40,8 +40,8 @@ Exemple : a:hover {
     color: #FF0000;  
 }  
 
-Les pseudos-classes peuvent être combinée avec des classes HTML  
-> Dans cet exemple quand on passe sur le lien, il va changer de couleur :  
+>Les pseudos-classes peuvent être combinée avec des classes HTML  
+>>Dans cet exemple quand on passe sur le lien, il va changer de couleur :  
 
 < head >  
 < style >  
