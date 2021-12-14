@@ -31,3 +31,12 @@ Exemple : a:visited {
 >> Styliser de manière différente les liens visités et non-visités  
 >> Styliser un élément quand on clique dessus par exemple  
 
+> La syntaxe des pseudos-classes :  
+>> selector:pseudo-class {  
+    property: value;  
+}  
+
+Exemple : a:hover {  
+    color: #FF0000;  
+}
+
