@@ -14,7 +14,7 @@ a: active = Styliser le lien au moment où l'on clique dessus
 > Cette propriété est principalement utilsé afin d'enlever l'underline des liens.  
 
 Exemple : a:link {  
-    text-decoration: underline;  
+    text-decoration: none;  
 }
 
 ## Background Color
