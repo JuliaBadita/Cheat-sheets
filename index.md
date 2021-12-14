@@ -19,6 +19,7 @@ Exemple : a:link {
 
 ## Background Color
 > Cette propriété est utilisé afin de choisir la couleur de fond des liens.  
+
 Exemple : a:visited {  
     background-color: lightgreen;  
 }
