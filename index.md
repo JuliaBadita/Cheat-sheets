@@ -38,5 +38,29 @@ Exemple : a:visited {
 
 Exemple : a:hover {  
     color: #FF0000;  
-}
+}  
+
+Les pseudos-classes peuvent être combinée avec des classes HTML  
+> Dans cet exemple quand on passe sur le lien, il va changer de couleur :  
+
+<head>  
+<style>  
+a.highlight:hover {  
+  color: #ff0000;  
+  font-size: 22px;  
+}   
+</style>  
+</head>  
+<body>  
+
+<h2>Pseudo-classes and HTML Classes</h2>  
+
+<p>When you hover over the first link below, it will change color and font size:</p>  
+
+<p><a class="highlight" href="css_syntax.asp">CSS Syntax</a></p>  
+
+<p><a href="default.asp">CSS Tutorial</a></p>  
+
+</body>   
+
 
