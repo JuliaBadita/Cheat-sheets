@@ -25,3 +25,9 @@ Exemple : a:visited {
 }
 
 
+## Les Pseudos-classes
+> Elles sont utilisées afin de définir l'état spécifique d'un élément, par exmple cela peut-être utilisé afin de :  
+>> Styliser un element quand un utilisateur passe sa souris dessus  
+>> Styliser de manière différente les liens visités et non-visités  
+>> Styliser un élément quand on clique dessus par exemple  
+
