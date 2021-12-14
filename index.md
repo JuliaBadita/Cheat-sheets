@@ -5,6 +5,6 @@ a:visited = Styliser un lien que l'utilisateur a visité
 a:hover = Styliser quand on passe la souris sur le lien  
 a: active = Styliser le lien au moment où l'on clique dessus  
 
-> Se place dans le head et à relier dans le body avec un <a href="default.asp" target="blank"> (ceci est un exemple)
+> Se place dans le head et à relier dans le body avec un <  a href="default.asp" target="blank"  > Lien ici (ceci est un exemple) </  a  >
 
 
